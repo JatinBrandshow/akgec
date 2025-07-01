@@ -122,7 +122,7 @@ const ECDepartment = () => {
                 </div>
                 <div className="relative max-w-[1400px] mx-auto h-full w-full grid grid-cols-3 px-10 max-sm:px-3">
                     <div className="col-span-1 flex flex-col justify-center max-lg:items-center text-white max-lg:col-span-3 max-lg:pt-40">
-                        <span className="text-xl sm:text-2xl max-sm:text-center font-novaReg">Bachelor of Engineering</span>
+                        <span className="text-xl sm:text-2xl max-sm:text-center font-novaReg">Masters of Technology</span>
                         <h2 className="font-novaReg max-md:text-center text-3xl sm:text-4xl">Electronics and Communication Engineering</h2>
                         <button className="py-3 max-sm:py-2 max-sm:px-6 max-sm:text-xs px-8 mt-5 text-[15px] rounded-lg font-novaBold uppercase bg-btn-gradient animate-gradient text-white w-max  hover:bg-[#3c5686] hover:border-b-4 hover:border-[#beb6ff] hover:transform scale-y-105 tracking-widest flex items-center gap-1">
                             Apply Now <MoveRight className="w-5 h-5" />
@@ -142,23 +142,22 @@ const ECDepartment = () => {
                 <div className="mt-8 grid grid-cols-1 md:grid-cols-2 gap-8">
                     <div className="space-y-6">
                         <div>
-                            <h2 className="text-3xl font-novaReg">Electronics and Communication Engineering</h2>
+                            <h2 className="text-3xl font-novaReg">M.Tech in Electronics and Communication Engineering</h2>
                             <p className="my-5 tracking-tight font-novaReg text-start leading-5">
-                                The Department of Electronics and Communication Engineering at AKGU was established in 1998, coinciding with the inception of the college. It offers a dynamic academic environment with a strong focus on
-                                quality education and research.
+                                  The M.Tech program in Electronics and Communication Engineering at AKGU is designed to equip students with advanced knowledge and practical skills in areas such as VLSI design, embedded systems, signal processing, and wireless communication. The program focuses on research-driven learning, supported by modern labs and experienced faculty members.
+
                             </p>
                             <p className="leading-5 text-start font-novaReg">
-                                Since its establishment, the department has been at the forefront of technical education and research in core areas of Electronics and Communication. The department ensures comprehensive support for B.Tech
-                                students through state-of-the-art laboratories, project guidance, and access to scholarly resources. Courses are conducted by experienced faculty members committed to academic excellence and innovation.
-                                Students and faculty actively contribute to research publications in reputed journals and conferences at national and international levels.
+                                 Through a combination of core subjects, electives, and project work, students gain a deep understanding of modern communication technologies and electronic systems. The department emphasizes innovation, industry exposure, and academic excellence, preparing graduates for roles in R&D, teaching, core industries, or doctoral studies in reputed institutions.
+
                             </p>
                         </div>
 
                         <div>
                             <h2 className="font-novaReg text-2xl">Scope</h2>
                             <p className="mt-2 font-novaReg">
-                                According to industry reports, the demand for Electronics and Communication Engineers is expected to grow steadily with advancements in areas like 5G technology, IoT, embedded systems, and semiconductor
-                                design. Graduates can pursue careers in telecommunications, consumer electronics, robotics, defense, and VLSI industries, or opt for higher studies and research in emerging ECE domains.
+                                 M.Tech in Electronics and Communication Engineering offers vast scope in both industry and academia. Graduates can explore opportunities in semiconductor industries, embedded systems, telecommunications, robotics, IoT, and defense technology. With the growing demand for advanced electronic and communication solutions in sectors like healthcare, automotive, and automation, ECE professionals are well-positioned for roles in research, design, development, and innovation. The program also provides a strong foundation for pursuing Ph.D. or careers in teaching and public sector undertakings.
+
                             </p>
                         </div>
                     </div>
@@ -177,13 +176,13 @@ const ECDepartment = () => {
                 </div>
             </main>
             {/* Section 1: Electronics and Communication Engineering  */}
-            <section className="relative h-[40vh] xl:h-[50vh] bg-cover flex flex-col justify-between lg:p-10">
+            <section className="relative h-[40vh] xl:h-[60vh] bg-cover flex flex-col justify-between lg:p-10">
                 <div className="absolute inset-0 bg-BG42 bg-cover bg-fixed grayscale">
                     <div className="absolute inset-0 bg-gray-800 bg-opacity-90" />
                 </div>
                 <div className="relative max-w-4xl w-full mx-auto text-white text-center flex max-md:flex-col max-md:gap-5 items-center justify-between px-4 py-10">
                     <div>
-                        <h2 className="text-2xl sm:text-3xl md:text-4xl font-novaBold max-w-lg leading-6 sm:leading-7">ELECTRONICS AND COMMUNICATION ENGINEERING</h2>
+                        <h2 className="text-2xl sm:text-3xl md:text-4xl font-novaBold max-w-lg leading-6 sm:leading-7">MTECH IN ELECTRONICS AND COMMUNICATION ENGINEERING</h2>
                         <span className="text-lg sm:text-xl md:text-2xl font-novaReg">Program Ranked Amongst</span>
                         <h1 className="text-2xl sm:text-4xl xl:text-6xl text-yellow-500 font-novaBold">TOP UNIVERSITY</h1>
                     </div>
@@ -316,7 +315,7 @@ const ECDepartment = () => {
             <div className="max-w-[1400px] mx-auto p-6 grid grid-cols-1 lg:grid-cols-2 gap-8">
                 <div className="space-y-8">
                     <div>
-                        <h1 className="text-2xl font-novaReg text-gray-800 mb-2">AKG University B.Tech ECE Admission Eligibility & Fees</h1>
+                        <h1 className="text-2xl font-novaReg text-gray-800 mb-2">AKG University M.Tech ECE Admission Eligibility & Fees</h1>
                         <p className="text-gray-800 font-novaReg">
                             Applicants must have completed 10+2 with Physics, Mathematics, and one additional subject such as Chemistry / Computer Science / Electronics / Biology, securing at least 60% aggregate marks.
                         </p>
@@ -392,16 +391,15 @@ const ECDepartment = () => {
                     <h1 className="text-3xl font-novaReg text-white leading-7 mb-8">
                         Career Opportunities After
                         <br />
-                        Electronics & Communication Engineering
+                       M.TECH in Electronics & Communication Engineering
                     </h1>
                     <div className="grid md:grid-cols-2 gap-8">
                         {/* Careers Section */}
                         <div>
                             <h2 className="text-2xl font-novaReg text-white mb-4">Career Prospects</h2>
                             <p className="text-white font-novaReg leading-relaxed">
-                                Graduates of Electronics and Communication Engineering have diverse career opportunities in both core and interdisciplinary fields. They can pursue roles in telecommunications, embedded systems, VLSI design,
-                                signal processing, and robotics. Opportunities also exist in industries such as consumer electronics, aerospace, defense, automotive, and IoT product development. ECE professionals are in demand for positions
-                                like electronics design engineer, network planning engineer, RF engineer, and research associate, offering dynamic growth and competitive salaries.
+                                Graduates of M.Tech in Electronics and Communication Engineering have promising career opportunities in core sectors such as telecommunications, embedded systems, VLSI design, signal processing, and IoT. They can work as design engineers, R&D specialists, system architects, or technical consultants in leading tech companies. Additionally, many pursue roles in academia, public sector units, or opt for Ph.D. programs in India and abroad to build a career in research and teaching.
+
                             </p>
                         </div>
                         {/* Top Recruiters Section */}
