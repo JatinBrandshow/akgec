@@ -1,8 +1,9 @@
 import ECDepartment from "./ECDepartment";
 
+
 export const Home = () => {
     return (
-        <ECDepartment />
+     <ECDepartment />
     )
 }
 

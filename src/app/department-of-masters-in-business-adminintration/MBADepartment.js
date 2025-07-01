@@ -564,4 +564,4 @@ const MBADepartment = () => {
   )
 }
 
-export default MBADepartment
+export default MBADepartment ;

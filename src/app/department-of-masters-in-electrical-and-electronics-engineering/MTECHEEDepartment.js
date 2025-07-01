@@ -563,4 +563,4 @@ const MTECHEEDepartment = () => {
   )
 }
 
-export default MTECHEEDepartment
+export default MTECHEEDepartment  ;

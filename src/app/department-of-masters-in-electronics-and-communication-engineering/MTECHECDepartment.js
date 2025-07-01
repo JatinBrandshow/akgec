@@ -16,7 +16,7 @@ import IndustryPartnerSlider from "@/Components/IndustryPartnerSlider";
 import HighlightSlider from "@/Components/HighlightSlider";
 import Breadcrumb from "@/Components/Breadcrumb";
 
-const ECDepartment = () => {
+const MTECHECDepartment = () => {
     const features = [
         "Triple-Level Certification Program.",
         "15-hour Online/Blended Course with one credit for each level, aligned with industry standards.",
@@ -527,4 +527,4 @@ const ECDepartment = () => {
     );
 };
 
-export default ECDepartment;
+export default MTECHECDepartment ;

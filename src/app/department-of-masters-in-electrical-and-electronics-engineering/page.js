@@ -1,5 +1,6 @@
 import MTECHEEDepartment from "./MTECHEEDepartment";
 
+
 export const Home = () => {
     return (
         <MTECHEEDepartment />
