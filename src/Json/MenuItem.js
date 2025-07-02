@@ -267,23 +267,23 @@ export const Programs = {
                 },
                 {
                     name: 'B.Tech in Electrical & Electronics Engineering',
-                    url: '/'
+                    url: '/department-of-electrical-and-electronics-engineering'
                 },
                 {
                     name: 'B.Tech in Mechanical Engineering',
-                    url: '/'
+                    url: '/department-of-mechanical-engineering'
                 },
                 {
                     name: 'B.Tech in Civil Engineering',
-                    url: '/'
+                    url: '/department-of-civil-engineering'
                 },
                 {
                     name: 'M.Tech in Electronics and Communication Engineering',
-                    url: '/'
+                    url: '/department-of-masters-in-electronics-and-communication-engineering'
                 },
                 {
                     name: 'M.Tech in Electrical & Electronics Engineering',
-                    url: '/'
+                    url: '/department-of-masters-in-electrical-and-electronics-engineering'
                 },
                 {
                     name: 'Ph.D',
@@ -309,7 +309,7 @@ export const Programs = {
             "Programs": [
                 {
                     name: 'MBA- Master of Business Administration',
-                    url: '/'
+                    url: '/department-of-masters-in-business-adminintration'
                 },
                 {
                     name: 'Ph.D',
