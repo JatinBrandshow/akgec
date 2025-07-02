@@ -228,7 +228,7 @@ export const Programs = {
                     url: 'department-of-masters-in-computer-science-and-engineering'
                 },
                 {
-                    name: 'MCA- Master of Computer Applications',
+                    name: 'Master of Computer Applications (MCA)',
                     url: '/department-of-masters-of-computer-application'
                 },
                 {
