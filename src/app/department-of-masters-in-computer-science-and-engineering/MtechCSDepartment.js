@@ -367,11 +367,11 @@ const MtechCSDepartment = () => {
           </div>
         </div>
 
-        <div className="relative h-[500px] rounded-lg">
+         <div className="relative h-[500px] rounded-lg">
           <img
-            src="https://imgs.search.brave.com/7Q1e0tZ2B2fK3qYb8Q7QJ9w9Z9Z9Z9Z9Z9Z9Z9Z9Z9Z9/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3RmYXNzZXRz/Lm5ldC9ocmx0eDEy/cGw4aHEvNlBvTlFJ/WkZ5d0hHd2hQYlZL/OS9hODQ0YzQyYjA4/NzQ0Y2Q5ODliYzFk/ODI4YzM5YzY5L2Yy/ZjFkYy9yZXNlYXJj/aC1sYWItaW1hZ2Uu/anBn"
-            alt="Research Lab"
-            className="w-full h-full object-cover"
+            src="https://imgs.search.brave.com/Hue7bpZgnaDEf6Yub5aRxipDEnEF9M_aXkSWqFExmLI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYXZl/Y2FtZXJhd2lsbHRy/YXZlbC5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMjAvMDEv/eW91dHViZS10aHVt/Ym5haWxzLXNpemUt/aGVhZGVyLTEtODAw/eDQ1MC5wbmc"
+            alt="Thumbnail"
+            className="w-full object-cover"
           />
         </div>
       </div>
